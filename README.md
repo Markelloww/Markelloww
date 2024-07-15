@@ -1,16 +1,36 @@
-## Hi there 👋
+<br clear="both">
 
-<!--
-**Markelloww/Markelloww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="300" width="600" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Привет, меня зову Марк👋</h1>
+
+###
+
+<div align="center">
+  <a href="https://t.me/fsbrossii" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">👩‍💻 Обо мне:</h3>
+
+###
+
+<p align="left">Начинающий Java-разработчик (Spring Framework). С 2023 году обучаюсь в КубГУ на факультете компьютерных технологий и прикладной математики (ФКТиПМ). Обладаю знаниями в области дискретной математики, математического анализа. Хорошо знаю С++.</p>
+
+###
+
+<h3 align="left">📚 Книги:</h3>
+<br>- Чистый код. Создание, анализ и рефакторинг. (Роберт Мартин)
+<br>- Чистая архитектура. Искусство разработки программного обеспечения. (Роберт Мартин)
+<br>- Алгоритмы. Построение и анализ. (Томас Кормен)
+<br>- Алгоритмический тренинг. Решения практический задач на Python и C++. (Максим Иванов)
+<br>- Грокаем алгоритмы. (Адитья Бхаргава)
+
+
