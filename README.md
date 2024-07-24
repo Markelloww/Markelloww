@@ -50,3 +50,9 @@
 >- **Грокаем алгоритмы.** (Адитья Бхаргава)
 
 ###
+
+<div align="center">
+  <img height="450" width="600" src="https://i.postimg.cc/8kwHhQT8/nerc.jpg"  />
+</div>
+
+###
