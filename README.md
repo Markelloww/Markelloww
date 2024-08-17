@@ -44,9 +44,10 @@
 | Яндекс Практикум. Основы работы с Git | 01.2024 – 02.2024 |
 | Udemy. Java для начинающих (Alishev) | 05.2024 – 06.2024 |
 | Udemy. Алгоритмы и структуры данных (Alishev) | 06.2024 |
-| Udemy. Продвинутая Java (Alishev)  | 06.2024 – 07.2024 | 
-| Udemy. Git (Alishev)  | 07.2024 | 
-| Udemy. Java – получи черный пояс  | 07.2024 – xx.2024 | 
+| Udemy. Продвинутая Java (Alishev) | 06.2024 – 07.2024 | 
+| Udemy. Git (Alishev) | 07.2024 | 
+| Udemy. Java – получи черный пояс (Tregulov) | 07.2024 – 08.2024 | 
+| Udemy. Spring Framework (Alishev) | 08.2024 – xx.2024 | 
 
 
 
